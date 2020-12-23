@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Soap_Odata'
+define service ZUI_SOAP_ODATA {
+  expose ZCE_SOAP_ODATA;
+}

@@ -1,0 +1,6 @@
+ implementation abstract;
+ define behavior for ZA_BUSINESSPARTNER2145461CB9
+  {
+  create;
+ update;
+ }

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Odata service'
+define service ZUI_ODATA {
+  expose ZCE_ODATA;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for new service'
+define service ZUI_NEW_SERVICE1 {
+  expose ZCE_NEW_SERVICE1;
+}
